@@ -1,0 +1,20 @@
+name: foaf
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - numpy
+  - scipy
+  - ca-certificates
+  - openssl
+  - pytorch
+  - pandas
+  - keras
+  - tensorflow
+  - scikit-learn
+  - certifi
+  - matplotlib
+  - seaborn
+  - jupyter
+  - notebook
+prefix: /Users/kerryflynn/mambaforge/envs/foaf

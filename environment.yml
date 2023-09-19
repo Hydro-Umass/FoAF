@@ -9,12 +9,7 @@ dependencies:
   - openssl
   - pytorch
   - pandas
-  - keras
-  - tensorflow
   - scikit-learn
-  - certifi
   - matplotlib
   - seaborn
-  - jupyter
-  - notebook
 prefix: /Users/kerryflynn/mambaforge/envs/foaf
